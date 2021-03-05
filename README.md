@@ -1,5 +1,5 @@
 # spring-boot-minio
-## Runing Minio:
+## Running Minio:
 
  ``` $ docker-compose up -d ```
  ```
