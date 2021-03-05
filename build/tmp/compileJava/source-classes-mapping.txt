@@ -1,0 +1,6 @@
+com/minio/poc/PocApplication.java
+ com.minio.poc.PocApplication
+com/minio/poc/MinioController.java
+ com.minio.poc.MinioController
+com/minio/poc/MinioService.java
+ com.minio.poc.MinioService
